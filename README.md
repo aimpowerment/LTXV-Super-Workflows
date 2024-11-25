@@ -1,4 +1,9 @@
-![](https://github.com/aimpowerment/LTXV-Super-Workflows/blob/main/LTXV-opt-logo.png)
+![logo](https://github.com/aimpowerment/LTXV-Super-Workflows/blob/main/logo.png)
+
+![](https://img.shields.io/github/stars/aimpowerment/LTXV-Super-Workflows?style=social)
+![GitHub contributors](https://img.shields.io/github/contributors/aimpowerment/LTXV-Super-Workflows)
+![GitHub last commit](https://img.shields.io/github/last-commit/aimpowerment/LTXV-Super-Workflows)
+
 # LTXV _OPT_ imization
 
 ## Mission
