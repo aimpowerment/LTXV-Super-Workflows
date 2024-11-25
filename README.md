@@ -4,6 +4,8 @@
 ![](https://img.shields.io/github/stars/aimpowerment/LTXV-Super-Workflows?style=social)
 ![GitHub contributors](https://img.shields.io/github/contributors/aimpowerment/LTXV-Super-Workflows)
 ![GitHub last commit](https://img.shields.io/github/last-commit/aimpowerment/LTXV-Super-Workflows)
+![GitHub watchers](https://img.shields.io/github/watchers/aimpowerment/LTXV-Super-Workflows)
+
 
 # LTXV _OPT_ imization
 
