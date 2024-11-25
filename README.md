@@ -1,3 +1,4 @@
+
 ![logo](https://github.com/aimpowerment/LTXV-Super-Workflows/blob/main/logo.png)
 
 ![](https://img.shields.io/github/stars/aimpowerment/LTXV-Super-Workflows?style=social)
@@ -12,8 +13,9 @@
 - workflows with few dependencies as possible
 - clean and simple Node structure
 
+[![Alberto Sono GitHub stats](https://github-readme-stats.vercel.app/api?username=aimpowerment&show_icons=true&theme=synthwave&rank_icon=github)](https://github.com/aimpowerment/LTXV-Super-Workflows)
 
-### licence:
+### workflow licence:
 ```
 This is free and unencumbered software released into the public domain.
 
