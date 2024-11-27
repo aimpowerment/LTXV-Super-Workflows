@@ -16,11 +16,12 @@
 - clean and simple Node structure
 
 ## Workflows
-![](https://github.com/aimpowerment/LTXV-Super-Workflows/blob/main/workflows/LTXV-SONAR-EULER-SUPERFAST-txt2vid.json)
+- [LTXV with Euler Sonar + CLIP GGUF](https://github.com/aimpowerment/LTXV-Super-Workflows/blob/main/workflows/LTXV-SONAR-EULER-SUPERFAST-txt2vid.json) fast generation and easy to use
+- [VFI Video Frame Interpolation snippet](https://github.com/aimpowerment/LTXV-Super-Workflows/blob/main/workflows/SRK-VFI-VIDEO-FRAME-INTERPOLATION.json) little helper
 
-[![Alberto Sono GitHub stats](https://github-readme-stats.vercel.app/api?username=aimpowerment&show_icons=true&theme=synthwave&rank_icon=github)](https://github.com/aimpowerment/LTXV-Super-Workflows)
+### Licence:
+This workflows you can use free in your commercial or private projects
 
-### workflow licence:
 ```
 This is free and unencumbered software released into the public domain.
 
@@ -47,3 +48,5 @@ OTHER DEALINGS IN THE SOFTWARE.
 
 For more information, please refer to <https://unlicense.org>
 ```
+
+[![Alberto Sono GitHub stats](https://github-readme-stats.vercel.app/api?username=aimpowerment&show_icons=true&theme=synthwave&rank_icon=github)](https://github.com/aimpowerment/LTXV-Super-Workflows)
