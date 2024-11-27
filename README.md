@@ -15,6 +15,9 @@
 - workflows with few dependencies as possible
 - clean and simple Node structure
 
+## Workflows
+![](https://github.com/aimpowerment/LTXV-Super-Workflows/blob/main/workflows/LTXV-SONAR-EULER-SUPERFAST-txt2vid.json)
+
 [![Alberto Sono GitHub stats](https://github-readme-stats.vercel.app/api?username=aimpowerment&show_icons=true&theme=synthwave&rank_icon=github)](https://github.com/aimpowerment/LTXV-Super-Workflows)
 
 ### workflow licence:
